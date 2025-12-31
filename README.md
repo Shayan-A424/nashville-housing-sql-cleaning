@@ -54,19 +54,19 @@ The SQL script performs the following cleaning steps:
 
 ---
 
-## Screenshots
+## Screenshots (Query Outputs)
 
-### 1) Query Output 1
-![SQLSS1](screenshots/SQLSS1.PNG)
+### Query Output 1
+![Query Output 1](SQLSS1.PNG)
 
-### 2) Query Output 2
-![SQLSS2](screenshots/SQLSS2.PNG)
+### Query Output 2
+![Query Output 2](SQLSS2.PNG)
 
-### 3) Query Output 3
-![SQLSS3](screenshots/SQLSS3.PNG)
+### Query Output 3
+![Query Output 3](SQLSS3.PNG)
 
-### 4) Query Output 4
-![SQLSS4](screenshots/SQLSS4.PNG)
+### Query Output 4
+![Query Output 4](SQLSS4.PNG)
 
 ---
 
